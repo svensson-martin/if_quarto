@@ -1,0 +1,53 @@
+---
+title: "Departmental Forum"
+author: "IMADA"
+date: "`{r} Sys.Date()`"
+format: 
+  beamer: 
+    navigation: empty
+    innertheme: circles
+    keep-tex: true
+    include-in-header: 
+      file: 'IFheader.txt'
+    urlcolor: blue
+    filecolor: magenta
+    linkcolor: blue
+    colorlinks: true
+    pdf-engine: pdflatex
+    slide-level: 1
+    fontenc: T1
+    fontfamily: gillius
+    incremental: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE)
+library(tidyverse)
+library(data.table)
+library(kableExtra)
+library(gridExtra)
+```
+
+
+# Some final words
+
+---
+
+\pause
+
+\centerline{\Large Matters relating to teaching}
+
+---
+
+\pause
+
+\centerline{\Large Anything to discuss from the newsletter?}
+
+---
+
+\pause
+
+\centerline{\Large Mutual information and any other business?}
+
+---
+
