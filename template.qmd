@@ -18,6 +18,7 @@ format:
     fontenc: T1
     fontfamily: gillius
     incremental: true
+    classoption: "handout"
 ---
 
 ```{r setup, include=FALSE}
