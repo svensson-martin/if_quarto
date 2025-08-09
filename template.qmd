@@ -34,19 +34,15 @@ library(gridExtra)
 
 ---
 
-\pause
+. . . 
 
 \centerline{\Large Matters relating to teaching}
 
 ---
 
-\pause
-
 \centerline{\Large Anything to discuss from the newsletter?}
 
 ---
-
-\pause
 
 \centerline{\Large Mutual information and any other business?}
 
