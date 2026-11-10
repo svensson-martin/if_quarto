@@ -23,7 +23,7 @@ format:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE)
-library(tidyverse)
+suppressPackageStartupMessages(library(tidyverse))
 library(data.table)
 library(kableExtra)
 library(gridExtra)
